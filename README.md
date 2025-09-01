@@ -25,3 +25,5 @@ npm start
 ```
 
 3. Открыть [http://localhost:3000](http://localhost:3000)
+
+Деплой на vercel: https://test-rtsim.vercel.app/
